@@ -2606,6 +2606,338 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "simple-grid": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "blue",
+            "contrastLimits": [
+              570,
+              1870
+            ],
+            "name": "nuclei",
+            "opacity": 1.0,
+            "sources": [
+              "plate_nuclei"
+            ],
+            "visible": true
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "segmentation-nuclei",
+            "opacity": 0.5,
+            "showTable": false,
+            "sources": [
+              "plate_segmentation-nuclei"
+            ],
+            "visible": false
+          }
+        },
+        {
+          "regionDisplay": {
+            "lut": "glasbey",
+            "name": "sites",
+            "opacity": 0.5,
+            "sources": {
+              "C01_0": [
+                "nuclei-C01_0_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_0_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_1": [
+                "nuclei-C01_1_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_1_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_2": [
+                "nuclei-C01_2_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_2_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_3": [
+                "nuclei-C01_3_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_3_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_4": [
+                "nuclei-C01_4_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_4_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_5": [
+                "nuclei-C01_5_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_5_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_6": [
+                "nuclei-C01_6_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_6_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_7": [
+                "nuclei-C01_7_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_7_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C01_8": [
+                "nuclei-C01_8_C01_nuclei_plate_nuclei",
+                "segmentation-nuclei-C01_8_C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_0": [
+                "nuclei-C02_0_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_0_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_1": [
+                "nuclei-C02_1_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_1_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_2": [
+                "nuclei-C02_2_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_2_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_3": [
+                "nuclei-C02_3_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_3_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_4": [
+                "nuclei-C02_4_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_4_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_5": [
+                "nuclei-C02_5_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_5_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_6": [
+                "nuclei-C02_6_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_6_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_7": [
+                "nuclei-C02_7_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_7_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02_8": [
+                "nuclei-C02_8_C02_nuclei_plate_nuclei",
+                "segmentation-nuclei-C02_8_C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_0": [
+                "nuclei-C03_0_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_0_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_1": [
+                "nuclei-C03_1_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_1_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_2": [
+                "nuclei-C03_2_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_2_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_3": [
+                "nuclei-C03_3_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_3_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_4": [
+                "nuclei-C03_4_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_4_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_5": [
+                "nuclei-C03_5_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_5_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_6": [
+                "nuclei-C03_6_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_6_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_7": [
+                "nuclei-C03_7_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_7_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03_8": [
+                "nuclei-C03_8_C03_nuclei_plate_nuclei",
+                "segmentation-nuclei-C03_8_C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ]
+            },
+            "tableSource": "sites",
+            "visible": false
+          }
+        },
+        {
+          "regionDisplay": {
+            "lut": "glasbey",
+            "name": "wells",
+            "opacity": 0.5,
+            "sources": {
+              "C01": [
+                "C01_nuclei_plate_nuclei",
+                "C01_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C02": [
+                "C02_nuclei_plate_nuclei",
+                "C02_segmentation-nuclei_plate_segmentation-nuclei"
+              ],
+              "C03": [
+                "C03_nuclei_plate_nuclei",
+                "C03_segmentation-nuclei_plate_segmentation-nuclei"
+              ]
+            },
+            "tableSource": "wells",
+            "visible": true
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C01_nuclei",
+            "metadataSource": "nuclei-C01_0",
+            "sources": [
+              "nuclei-C01_0",
+              "nuclei-C01_1",
+              "nuclei-C01_2",
+              "nuclei-C01_3",
+              "nuclei-C01_4",
+              "nuclei-C01_5",
+              "nuclei-C01_6",
+              "nuclei-C01_7",
+              "nuclei-C01_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C02_nuclei",
+            "metadataSource": "nuclei-C01_0",
+            "sources": [
+              "nuclei-C02_0",
+              "nuclei-C02_1",
+              "nuclei-C02_2",
+              "nuclei-C02_3",
+              "nuclei-C02_4",
+              "nuclei-C02_5",
+              "nuclei-C02_6",
+              "nuclei-C02_7",
+              "nuclei-C02_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C03_nuclei",
+            "metadataSource": "nuclei-C01_0",
+            "sources": [
+              "nuclei-C03_0",
+              "nuclei-C03_1",
+              "nuclei-C03_2",
+              "nuclei-C03_3",
+              "nuclei-C03_4",
+              "nuclei-C03_5",
+              "nuclei-C03_6",
+              "nuclei-C03_7",
+              "nuclei-C03_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C01_segmentation-nuclei",
+            "metadataSource": "segmentation-nuclei-C01_0",
+            "sources": [
+              "segmentation-nuclei-C01_0",
+              "segmentation-nuclei-C01_1",
+              "segmentation-nuclei-C01_2",
+              "segmentation-nuclei-C01_3",
+              "segmentation-nuclei-C01_4",
+              "segmentation-nuclei-C01_5",
+              "segmentation-nuclei-C01_6",
+              "segmentation-nuclei-C01_7",
+              "segmentation-nuclei-C01_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C02_segmentation-nuclei",
+            "metadataSource": "segmentation-nuclei-C01_0",
+            "sources": [
+              "segmentation-nuclei-C02_0",
+              "segmentation-nuclei-C02_1",
+              "segmentation-nuclei-C02_2",
+              "segmentation-nuclei-C02_3",
+              "segmentation-nuclei-C02_4",
+              "segmentation-nuclei-C02_5",
+              "segmentation-nuclei-C02_6",
+              "segmentation-nuclei-C02_7",
+              "segmentation-nuclei-C02_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C03_segmentation-nuclei",
+            "metadataSource": "segmentation-nuclei-C01_0",
+            "sources": [
+              "segmentation-nuclei-C03_0",
+              "segmentation-nuclei-C03_1",
+              "segmentation-nuclei-C03_2",
+              "segmentation-nuclei-C03_3",
+              "segmentation-nuclei-C03_4",
+              "segmentation-nuclei-C03_5",
+              "segmentation-nuclei-C03_6",
+              "segmentation-nuclei-C03_7",
+              "segmentation-nuclei-C03_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "plate_nuclei",
+            "metadataSource": "C01_nuclei",
+            "positions": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "sources": [
+              "C01_nuclei",
+              "C02_nuclei",
+              "C03_nuclei"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "plate_segmentation-nuclei",
+            "metadataSource": "C01_segmentation-nuclei",
+            "positions": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "sources": [
+              "C01_segmentation-nuclei",
+              "C02_segmentation-nuclei",
+              "C03_segmentation-nuclei"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }
