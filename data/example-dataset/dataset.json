@@ -1,0 +1,2611 @@
+{
+  "is2D": true,
+  "sources": {
+    "marker-C01_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C01_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C01_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C01_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C02_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C02_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C02_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "marker-C03_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/marker-C03_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/marker-C03_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C01_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C01_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C01_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C02_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C02_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C02_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "nuclei-C03_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/nuclei-C03_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/nuclei-C03_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_0": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_0.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_0"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_1": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_1.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_1"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_2": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_2.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_2"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_3": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_3.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_3"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_4": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_4.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_4"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_5": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_5.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_5"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_6": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_6.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_6"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_7": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_7.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_7"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C01_8": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C01_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C01_8.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C01_8"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_0": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_0.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_0"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_1": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_1.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_1"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_2": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_2.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_2"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_3": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_3.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_3"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_4": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_4.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_4"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_5": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_5.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_5"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_6": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_6.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_6"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_7": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_7.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_7"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C02_8": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C02_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C02_8.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C02_8"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_0": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_0.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_0"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_1": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_1.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_1"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_2": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_2.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_2"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_3": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_3.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_3"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_4": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_4.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_4"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_5": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_5.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_5"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_6": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_6.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_6"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_7": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_7.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_7"
+          }
+        }
+      }
+    },
+    "segmentation-cells-C03_8": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-cells-C03_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-cells-C03_8.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-cells-C03_8"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_0": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_0.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_0"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_1": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_1.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_1"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_2": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_2.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_2"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_3": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_3.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_3"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_4": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_4.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_4"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_5": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_5.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_5"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_6": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_6.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_6"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_7": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_7.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_7"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C01_8": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C01_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C01_8.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C01_8"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_0": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_0.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_0"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_1": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_1.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_1"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_2": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_2.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_2"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_3": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_3.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_3"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_4": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_4.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_4"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_5": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_5.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_5"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_6": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_6.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_6"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_7": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_7.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_7"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C02_8": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C02_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C02_8.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C02_8"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_0": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_0.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_0"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_1": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_1.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_1"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_2": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_2.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_2"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_3": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_3.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_3"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_4": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_4.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_4"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_5": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_5.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_5"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_6": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_6.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_6"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_7": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_7.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_7"
+          }
+        }
+      }
+    },
+    "segmentation-nuclei-C03_8": {
+      "segmentation": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/segmentation-nuclei-C03_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/segmentation-nuclei-C03_8.ome.zarr"
+          }
+        },
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/segmentation-nuclei-C03_8"
+          }
+        }
+      }
+    },
+    "serum-C01_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C01_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C01_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C01_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C02_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C02_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C02_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_0": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_0.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_0.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_1": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_1.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_1.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_2": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_2.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_2.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_3": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_3.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_3.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_4": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_4.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_4.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_5": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_5.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_5.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_6": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_6.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_6.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_7": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_7.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_7.ome.zarr"
+          }
+        }
+      }
+    },
+    "serum-C03_8": {
+      "image": {
+        "imageData": {
+          "ome.zarr": {
+            "relativePath": "images/ome-zarr/serum-C03_8.ome.zarr"
+          },
+          "ome.zarr.s3": {
+            "s3Address": "https://s3.embl.de/i2k-2020/mobie_htm_project/data/example-dataset/images/ome-zarr/serum-C03_8.ome.zarr"
+          }
+        }
+      }
+    },
+    "sites": {
+      "regions": {
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/sites"
+          }
+        }
+      }
+    },
+    "wells": {
+      "regions": {
+        "tableData": {
+          "tsv": {
+            "relativePath": "tables/wells"
+          }
+        }
+      }
+    }
+  },
+  "timepoints": 1,
+  "views": {
+    "default": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "blue",
+            "contrastLimits": [
+              567.7193774414062,
+              1821.85587890625
+            ],
+            "name": "nuclei",
+            "opacity": 1.0,
+            "sources": [
+              "plate_nuclei"
+            ],
+            "visible": true
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "green",
+            "contrastLimits": [
+              1228.1233251953124,
+              2348.74638671875
+            ],
+            "name": "serum",
+            "opacity": 1.0,
+            "sources": [
+              "plate_serum"
+            ],
+            "visible": false
+          }
+        },
+        {
+          "imageDisplay": {
+            "color": "red",
+            "contrastLimits": [
+              -284.343193359375,
+              1658.2951953124991
+            ],
+            "name": "marker",
+            "opacity": 1.0,
+            "sources": [
+              "plate_marker"
+            ],
+            "visible": false
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "segmentation-cells",
+            "opacity": 0.5,
+            "showTable": false,
+            "sources": [
+              "plate_segmentation-cells"
+            ],
+            "visible": false
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "segmentation-nuclei",
+            "opacity": 0.5,
+            "showTable": false,
+            "sources": [
+              "plate_segmentation-nuclei"
+            ],
+            "visible": false
+          }
+        },
+        {
+          "regionDisplay": {
+            "lut": "glasbey",
+            "name": "sites",
+            "opacity": 0.5,
+            "sources": {
+              "C01_0": [
+                "nuclei-C01_0",
+                "serum-C01_0",
+                "marker-C01_0",
+                "segmentation-cells-C01_0",
+                "segmentation-nuclei-C01_0"
+              ],
+              "C01_1": [
+                "nuclei-C01_1",
+                "serum-C01_1",
+                "marker-C01_1",
+                "segmentation-cells-C01_1",
+                "segmentation-nuclei-C01_1"
+              ],
+              "C01_2": [
+                "nuclei-C01_2",
+                "serum-C01_2",
+                "marker-C01_2",
+                "segmentation-cells-C01_2",
+                "segmentation-nuclei-C01_2"
+              ],
+              "C01_3": [
+                "nuclei-C01_3",
+                "serum-C01_3",
+                "marker-C01_3",
+                "segmentation-cells-C01_3",
+                "segmentation-nuclei-C01_3"
+              ],
+              "C01_4": [
+                "nuclei-C01_4",
+                "serum-C01_4",
+                "marker-C01_4",
+                "segmentation-cells-C01_4",
+                "segmentation-nuclei-C01_4"
+              ],
+              "C01_5": [
+                "nuclei-C01_5",
+                "serum-C01_5",
+                "marker-C01_5",
+                "segmentation-cells-C01_5",
+                "segmentation-nuclei-C01_5"
+              ],
+              "C01_6": [
+                "nuclei-C01_6",
+                "serum-C01_6",
+                "marker-C01_6",
+                "segmentation-cells-C01_6",
+                "segmentation-nuclei-C01_6"
+              ],
+              "C01_7": [
+                "nuclei-C01_7",
+                "serum-C01_7",
+                "marker-C01_7",
+                "segmentation-cells-C01_7",
+                "segmentation-nuclei-C01_7"
+              ],
+              "C01_8": [
+                "nuclei-C01_8",
+                "serum-C01_8",
+                "marker-C01_8",
+                "segmentation-cells-C01_8",
+                "segmentation-nuclei-C01_8"
+              ],
+              "C02_0": [
+                "nuclei-C02_0",
+                "serum-C02_0",
+                "marker-C02_0",
+                "segmentation-cells-C02_0",
+                "segmentation-nuclei-C02_0"
+              ],
+              "C02_1": [
+                "nuclei-C02_1",
+                "serum-C02_1",
+                "marker-C02_1",
+                "segmentation-cells-C02_1",
+                "segmentation-nuclei-C02_1"
+              ],
+              "C02_2": [
+                "nuclei-C02_2",
+                "serum-C02_2",
+                "marker-C02_2",
+                "segmentation-cells-C02_2",
+                "segmentation-nuclei-C02_2"
+              ],
+              "C02_3": [
+                "nuclei-C02_3",
+                "serum-C02_3",
+                "marker-C02_3",
+                "segmentation-cells-C02_3",
+                "segmentation-nuclei-C02_3"
+              ],
+              "C02_4": [
+                "nuclei-C02_4",
+                "serum-C02_4",
+                "marker-C02_4",
+                "segmentation-cells-C02_4",
+                "segmentation-nuclei-C02_4"
+              ],
+              "C02_5": [
+                "nuclei-C02_5",
+                "serum-C02_5",
+                "marker-C02_5",
+                "segmentation-cells-C02_5",
+                "segmentation-nuclei-C02_5"
+              ],
+              "C02_6": [
+                "nuclei-C02_6",
+                "serum-C02_6",
+                "marker-C02_6",
+                "segmentation-cells-C02_6",
+                "segmentation-nuclei-C02_6"
+              ],
+              "C02_7": [
+                "nuclei-C02_7",
+                "serum-C02_7",
+                "marker-C02_7",
+                "segmentation-cells-C02_7",
+                "segmentation-nuclei-C02_7"
+              ],
+              "C02_8": [
+                "nuclei-C02_8",
+                "serum-C02_8",
+                "marker-C02_8",
+                "segmentation-cells-C02_8",
+                "segmentation-nuclei-C02_8"
+              ],
+              "C03_0": [
+                "nuclei-C03_0",
+                "serum-C03_0",
+                "marker-C03_0",
+                "segmentation-cells-C03_0",
+                "segmentation-nuclei-C03_0"
+              ],
+              "C03_1": [
+                "nuclei-C03_1",
+                "serum-C03_1",
+                "marker-C03_1",
+                "segmentation-cells-C03_1",
+                "segmentation-nuclei-C03_1"
+              ],
+              "C03_2": [
+                "nuclei-C03_2",
+                "serum-C03_2",
+                "marker-C03_2",
+                "segmentation-cells-C03_2",
+                "segmentation-nuclei-C03_2"
+              ],
+              "C03_3": [
+                "nuclei-C03_3",
+                "serum-C03_3",
+                "marker-C03_3",
+                "segmentation-cells-C03_3",
+                "segmentation-nuclei-C03_3"
+              ],
+              "C03_4": [
+                "nuclei-C03_4",
+                "serum-C03_4",
+                "marker-C03_4",
+                "segmentation-cells-C03_4",
+                "segmentation-nuclei-C03_4"
+              ],
+              "C03_5": [
+                "nuclei-C03_5",
+                "serum-C03_5",
+                "marker-C03_5",
+                "segmentation-cells-C03_5",
+                "segmentation-nuclei-C03_5"
+              ],
+              "C03_6": [
+                "nuclei-C03_6",
+                "serum-C03_6",
+                "marker-C03_6",
+                "segmentation-cells-C03_6",
+                "segmentation-nuclei-C03_6"
+              ],
+              "C03_7": [
+                "nuclei-C03_7",
+                "serum-C03_7",
+                "marker-C03_7",
+                "segmentation-cells-C03_7",
+                "segmentation-nuclei-C03_7"
+              ],
+              "C03_8": [
+                "nuclei-C03_8",
+                "serum-C03_8",
+                "marker-C03_8",
+                "segmentation-cells-C03_8",
+                "segmentation-nuclei-C03_8"
+              ]
+            },
+            "tableSource": "sites",
+            "visible": false
+          }
+        },
+        {
+          "regionDisplay": {
+            "lut": "glasbey",
+            "name": "wells",
+            "opacity": 0.5,
+            "sources": {
+              "C01": [
+                "C01_nuclei",
+                "C01_serum",
+                "C01_marker",
+                "C01_segmentation-cells",
+                "C01_segmentation-nuclei"
+              ],
+              "C02": [
+                "C02_nuclei",
+                "C02_serum",
+                "C02_marker",
+                "C02_segmentation-cells",
+                "C02_segmentation-nuclei"
+              ],
+              "C03": [
+                "C03_nuclei",
+                "C03_serum",
+                "C03_marker",
+                "C03_segmentation-cells",
+                "C03_segmentation-nuclei"
+              ]
+            },
+            "tableSource": "wells",
+            "visible": true
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C01_nuclei",
+            "metadataSource": "nuclei-C01_0",
+            "sources": [
+              "nuclei-C01_0",
+              "nuclei-C01_1",
+              "nuclei-C01_2",
+              "nuclei-C01_3",
+              "nuclei-C01_4",
+              "nuclei-C01_5",
+              "nuclei-C01_6",
+              "nuclei-C01_7",
+              "nuclei-C01_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C02_nuclei",
+            "metadataSource": "nuclei-C01_0",
+            "sources": [
+              "nuclei-C02_0",
+              "nuclei-C02_1",
+              "nuclei-C02_2",
+              "nuclei-C02_3",
+              "nuclei-C02_4",
+              "nuclei-C02_5",
+              "nuclei-C02_6",
+              "nuclei-C02_7",
+              "nuclei-C02_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C03_nuclei",
+            "metadataSource": "nuclei-C01_0",
+            "sources": [
+              "nuclei-C03_0",
+              "nuclei-C03_1",
+              "nuclei-C03_2",
+              "nuclei-C03_3",
+              "nuclei-C03_4",
+              "nuclei-C03_5",
+              "nuclei-C03_6",
+              "nuclei-C03_7",
+              "nuclei-C03_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C01_serum",
+            "metadataSource": "serum-C01_0",
+            "sources": [
+              "serum-C01_0",
+              "serum-C01_1",
+              "serum-C01_2",
+              "serum-C01_3",
+              "serum-C01_4",
+              "serum-C01_5",
+              "serum-C01_6",
+              "serum-C01_7",
+              "serum-C01_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C02_serum",
+            "metadataSource": "serum-C01_0",
+            "sources": [
+              "serum-C02_0",
+              "serum-C02_1",
+              "serum-C02_2",
+              "serum-C02_3",
+              "serum-C02_4",
+              "serum-C02_5",
+              "serum-C02_6",
+              "serum-C02_7",
+              "serum-C02_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C03_serum",
+            "metadataSource": "serum-C01_0",
+            "sources": [
+              "serum-C03_0",
+              "serum-C03_1",
+              "serum-C03_2",
+              "serum-C03_3",
+              "serum-C03_4",
+              "serum-C03_5",
+              "serum-C03_6",
+              "serum-C03_7",
+              "serum-C03_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C01_marker",
+            "metadataSource": "marker-C01_0",
+            "sources": [
+              "marker-C01_0",
+              "marker-C01_1",
+              "marker-C01_2",
+              "marker-C01_3",
+              "marker-C01_4",
+              "marker-C01_5",
+              "marker-C01_6",
+              "marker-C01_7",
+              "marker-C01_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C02_marker",
+            "metadataSource": "marker-C01_0",
+            "sources": [
+              "marker-C02_0",
+              "marker-C02_1",
+              "marker-C02_2",
+              "marker-C02_3",
+              "marker-C02_4",
+              "marker-C02_5",
+              "marker-C02_6",
+              "marker-C02_7",
+              "marker-C02_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "C03_marker",
+            "metadataSource": "marker-C01_0",
+            "sources": [
+              "marker-C03_0",
+              "marker-C03_1",
+              "marker-C03_2",
+              "marker-C03_3",
+              "marker-C03_4",
+              "marker-C03_5",
+              "marker-C03_6",
+              "marker-C03_7",
+              "marker-C03_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C01_segmentation-cells",
+            "metadataSource": "segmentation-cells-C01_0",
+            "sources": [
+              "segmentation-cells-C01_0",
+              "segmentation-cells-C01_1",
+              "segmentation-cells-C01_2",
+              "segmentation-cells-C01_3",
+              "segmentation-cells-C01_4",
+              "segmentation-cells-C01_5",
+              "segmentation-cells-C01_6",
+              "segmentation-cells-C01_7",
+              "segmentation-cells-C01_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C02_segmentation-cells",
+            "metadataSource": "segmentation-cells-C01_0",
+            "sources": [
+              "segmentation-cells-C02_0",
+              "segmentation-cells-C02_1",
+              "segmentation-cells-C02_2",
+              "segmentation-cells-C02_3",
+              "segmentation-cells-C02_4",
+              "segmentation-cells-C02_5",
+              "segmentation-cells-C02_6",
+              "segmentation-cells-C02_7",
+              "segmentation-cells-C02_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C03_segmentation-cells",
+            "metadataSource": "segmentation-cells-C01_0",
+            "sources": [
+              "segmentation-cells-C03_0",
+              "segmentation-cells-C03_1",
+              "segmentation-cells-C03_2",
+              "segmentation-cells-C03_3",
+              "segmentation-cells-C03_4",
+              "segmentation-cells-C03_5",
+              "segmentation-cells-C03_6",
+              "segmentation-cells-C03_7",
+              "segmentation-cells-C03_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C01_segmentation-nuclei",
+            "metadataSource": "segmentation-nuclei-C01_0",
+            "sources": [
+              "segmentation-nuclei-C01_0",
+              "segmentation-nuclei-C01_1",
+              "segmentation-nuclei-C01_2",
+              "segmentation-nuclei-C01_3",
+              "segmentation-nuclei-C01_4",
+              "segmentation-nuclei-C01_5",
+              "segmentation-nuclei-C01_6",
+              "segmentation-nuclei-C01_7",
+              "segmentation-nuclei-C01_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C02_segmentation-nuclei",
+            "metadataSource": "segmentation-nuclei-C01_0",
+            "sources": [
+              "segmentation-nuclei-C02_0",
+              "segmentation-nuclei-C02_1",
+              "segmentation-nuclei-C02_2",
+              "segmentation-nuclei-C02_3",
+              "segmentation-nuclei-C02_4",
+              "segmentation-nuclei-C02_5",
+              "segmentation-nuclei-C02_6",
+              "segmentation-nuclei-C02_7",
+              "segmentation-nuclei-C02_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "encodeSource": true,
+            "mergedGridSourceName": "C03_segmentation-nuclei",
+            "metadataSource": "segmentation-nuclei-C01_0",
+            "sources": [
+              "segmentation-nuclei-C03_0",
+              "segmentation-nuclei-C03_1",
+              "segmentation-nuclei-C03_2",
+              "segmentation-nuclei-C03_3",
+              "segmentation-nuclei-C03_4",
+              "segmentation-nuclei-C03_5",
+              "segmentation-nuclei-C03_6",
+              "segmentation-nuclei-C03_7",
+              "segmentation-nuclei-C03_8"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "plate_nuclei",
+            "metadataSource": "C01_nuclei",
+            "positions": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "sources": [
+              "C01_nuclei",
+              "C02_nuclei",
+              "C03_nuclei"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "plate_serum",
+            "metadataSource": "C01_serum",
+            "positions": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "sources": [
+              "C01_serum",
+              "C02_serum",
+              "C03_serum"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "plate_marker",
+            "metadataSource": "C01_marker",
+            "positions": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "sources": [
+              "C01_marker",
+              "C02_marker",
+              "C03_marker"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "plate_segmentation-cells",
+            "metadataSource": "C01_segmentation-cells",
+            "positions": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "sources": [
+              "C01_segmentation-cells",
+              "C02_segmentation-cells",
+              "C03_segmentation-cells"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "plate_segmentation-nuclei",
+            "metadataSource": "C01_segmentation-nuclei",
+            "positions": [
+              [
+                0,
+                2
+              ],
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                2
+              ]
+            ],
+            "sources": [
+              "C01_segmentation-nuclei",
+              "C02_segmentation-nuclei",
+              "C03_segmentation-nuclei"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
+    }
+  }
+}

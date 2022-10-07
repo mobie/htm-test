@@ -1,0 +1,7 @@
+{
+  "datasets": [
+    "example-dataset"
+  ],
+  "defaultDataset": "example-dataset",
+  "specVersion": "0.3.0"
+}
