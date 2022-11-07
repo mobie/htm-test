@@ -2935,6 +2935,138 @@
         }
       ],
       "uiSelectionGroup": "bookmark"
+    },
+    "single_well": {
+      "isExclusive": true,
+      "sourceDisplays": [
+        {
+          "imageDisplay": {
+            "color": "blue",
+            "contrastLimits": [
+              567.7193774414062,
+              1821.85587890625
+            ],
+            "name": "nuclei",
+            "opacity": 1.0,
+            "sources": [
+              "nuclei-C01_0",
+              "nuclei-C01_1",
+              "nuclei-C01_2",
+              "nuclei-C01_3",
+              "nuclei-C01_4",
+              "nuclei-C01_5",
+              "nuclei-C01_6",
+              "nuclei-C01_7",
+              "nuclei-C01_8"
+            ],
+            "visible": true
+          }
+        },
+        {
+          "segmentationDisplay": {
+            "lut": "glasbey",
+            "name": "segmentation-nuclei",
+            "opacity": 0.5,
+            "showTable": false,
+            "sources": [
+              "segmentation-nuclei-C01_0",
+              "segmentation-nuclei-C01_1",
+              "segmentation-nuclei-C01_2",
+              "segmentation-nuclei-C01_3",
+              "segmentation-nuclei-C01_4",
+              "segmentation-nuclei-C01_5",
+              "segmentation-nuclei-C01_6",
+              "segmentation-nuclei-C01_7",
+              "segmentation-nuclei-C01_8"
+            ],
+            "visible": false
+          }
+        }
+      ],
+      "sourceTransforms": [
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-0",
+            "sources": [
+              "nuclei-C01_0",
+              "segmentation-nuclei-C01_0"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-1",
+            "sources": [
+              "nuclei-C01_1",
+              "segmentation-nuclei-C01_1"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-2",
+            "sources": [
+              "nuclei-C01_2",
+              "segmentation-nuclei-C01_2"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-3",
+            "sources": [
+              "nuclei-C01_3",
+              "segmentation-nuclei-C01_3"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-4",
+            "sources": [
+              "nuclei-C01_4",
+              "segmentation-nuclei-C01_4"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-5",
+            "sources": [
+              "nuclei-C01_5",
+              "segmentation-nuclei-C01_5"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-6",
+            "sources": [
+              "nuclei-C01_6",
+              "segmentation-nuclei-C01_6"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-7",
+            "sources": [
+              "nuclei-C01_7",
+              "segmentation-nuclei-C01_7"
+            ]
+          }
+        },
+        {
+          "mergedGrid": {
+            "mergedGridSourceName": "single_well-8",
+            "sources": [
+              "nuclei-C01_8",
+              "segmentation-nuclei-C01_8"
+            ]
+          }
+        }
+      ],
+      "uiSelectionGroup": "bookmark"
     }
   }
 }

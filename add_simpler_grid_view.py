@@ -2,7 +2,6 @@ import string
 from mobie import htm
 
 dataset_folder = "./data/example-dataset"
-
 max_jobs = 4
 
 
