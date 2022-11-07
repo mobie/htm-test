@@ -5,8 +5,7 @@ ds_folder = "./data/example-dataset"
 
 
 sources = [
-    [f"nuclei-C01_{i}" for i in range(9)],
-    [f"segmentation-nuclei-C01_{i}" for i in range(9)],
+    [f"nuclei-C01_{i}", f"segmentation-nuclei-C01_{i}"] for i in range(9)
 ]
 display_groups = {
     f"nuclei-C01_{i}": "nuclei" for i in range(9)
@@ -38,4 +37,5 @@ mobie.create_grid_view(
     dataset_folder=ds_folder, view_name="single_well", sources=sources,
     display_groups=display_groups, use_transformed_grid=False,
     display_group_settings=display_group_settings,
+    overwrite=True,
 )
